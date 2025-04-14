@@ -1,0 +1,1 @@
+This is a recipe project from the HTML Foundations section of The Odin Project. I'm well-versed in HTML, so this is functioning as a review of sorts.
